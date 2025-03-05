@@ -1,0 +1,63 @@
+{
+  "Header.Item0": "Top",
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "Michael_Resume.pdf",
+
+  "Banner.Pretitle": "Hello! We are",
+  "Banner.Description": "We have <span class='underline'>many years of experience</span> developing systems, cloud automation, and technological solutions to make the web a better place. We are dedicated to automation, refactoring, CI/CD, and secure, clean code in <span class='underline'>Angular</span> and <span class='underline'>TypeScript</span>, and being good Cloud citizens.",
+  "Banner.ActionBtn": "Say Hi",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "In over <span class=underline>20 years of experience</span>, I have covered various roles including <span class=underline>Senior Staff Software Engineer</span>, <span class=underline>DevOps Engineer</span>, and <span class=underline>Technical Lead</span>.",
+    "I have a strong passion for technology and a deep understanding of the software development lifecycle, particularly in the realm of DevOps.",
+    "I excel at integrating security best practices into DevOps workflows, ensuring seamless and secure deployment processes. ",
+    "Some of the technologies I have trained and worked with include (but are not limited to):"
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "GE HealthCare",
+      "Title": "Senior Staff Software Engineer",
+      "Date": "November 2021 - Present",
+      "Description": [
+        "Leader of 25 engineers in crucial migration and TSA exit",
+        "AWS automation and migration of 100+ applications",
+        "CI/CD pipeline implementation",
+        "Python, CloudFormation, Terraform, Ansible, Docker, and more",
+        "Technical lead and sole developer in the development of certificate automation",
+        "Implementation of Agile in the infrastructure team"
+      ]
+    },
+    {
+      "Tab": "Gulfstream Aerospace",
+      "Title": "DevOps Lead Engineer",
+      "Date": "June 2006 - November 2021",
+      "Description": [
+        "Introduced CI/CD to the Enterprise - leading to a 4,200% decrease in deployment time",
+        "Implemented dozens of Angular, TypeScript, and JavaScript applications",
+        "Created DevSecOps Center of Excellence",
+        "Mentored development teams in best practices, CI/CD, Jenkins, and Azure DevOps"
+      ]
+    },
+    {
+      "Tab": "ENOVIA",
+      "Title": "Senior Software Engineer",
+      "Date": "December 2001 - June 2006",
+      "Description": [
+        "Developed global enhancements to PLM platform with C++ and Java",
+        "Mentored junior developers"
+      ]
+    }
+  ],
+
+  "Contact.Pretitle": "What next?",
+  "Contact.Title": "Say Hi!",
+  "Contact.Content": "Reach out and let me know how I can help you!",
+  "Contact.Btn": "Contact Me"
+}
